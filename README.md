@@ -56,7 +56,7 @@ Web Interface – Predict traffic patterns interactively using app.py and index.
 
 📊 Usage
 1. Clone Repository
-git clone https://github.com/yourusername/traffic-analysis.git
+git clone https://github.com/codewith127yash/traffic-analysis.git
 cd traffic-analysis
 
 2. Install Dependencies
